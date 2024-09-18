@@ -1,9 +1,10 @@
 # Haiku.API by Manuel Suarez
-### C# | Swagger | XUnit | PostgreSQL (pgAdmin4) | Serilog | .NET | Visual Studio
+### C# | Swagger (Swashbuckle) | XUnit | PostgreSQL (pgAdmin4) | Serilog | .NET | RESTful API | Visual Studio
 
 # Summary
-Haiku.API is a robust API that allows you to create and manage haikus and haiku creators, it features Jwt Authentication for secured access, C.R.U.D Operations with built-in validation (Custom Syllable Counter), and Serilog for efficient log tracking and monitoring. 
-This project includes comprehensive integration and unit testing to ensure reliability and performance.
+Haiku.API is a robust RESTful API that allows you to create and manage haikus and haiku creators, it features Jwt Authentication for secured access, C.R.U.D Operations with built-in validation (Custom Syllable Counter), and Serilog for efficient log tracking and monitoring.
+
+The project includes thorough integration tests for controllers and unit tests for services, with over 20+ tests in total to ensure both reliability and performance.
 
 # Dependencies
 - AutoMapper: A library for object-to-object mapping, commonly used for mapping DTOs to domain models and vice versa.
@@ -25,10 +26,10 @@ This project includes comprehensive integration and unit testing to ensure relia
 - Npgsql.EntityFrameworkCore.PostgreSQL: The PostgreSQL provider for Entity Framework Core, allowing the use of PostgreSQL as a database.
 - Serilog: A structured logging library for .NET, providing flexible logging to various sinks (e.g., console, files).
 - Serilog.Extensions.Logging: Integrates Serilog with ASP.NET Core's logging framework, allowing Serilog to be used as the logging provider.
--Serilog.Sinks.Console: A Serilog sink for logging to the console, useful for debugging and development.
--Serilog.Sinks.Debug: A Serilog sink for logging to the debug output window, useful for development and debugging.
--Serilog.Sinks.File: A Serilog sink for logging to files, allowing for persistent log storage.
--Swashbuckle.AspNetCore: A library for generating Swagger documentation for ASP.NET Core APIs, providing interactive API documentation and testing.
+- Serilog.Sinks.Console: A Serilog sink for logging to the console, useful for debugging and development.
+- Serilog.Sinks.Debug: A Serilog sink for logging to the debug output window, useful for development and debugging.
+- Serilog.Sinks.File: A Serilog sink for logging to files, allowing for persistent log storage.
+- Swashbuckle.AspNetCore: A library for generating Swagger documentation for ASP.NET Core APIs, providing interactive API documentation and testing.
 - xunit: A popular testing framework for .NET, used for writing and running unit tests.
 - xunit.runner.visualstudio: An xUnit test runner for Visual Studio, enabling test discovery and execution within the IDE.
   
@@ -56,3 +57,4 @@ This project includes comprehensive integration and unit testing to ensure relia
 - CreatorId is required for each Haiku.
   
 # Demo
+[![Haiku.API](https://img.youtube.com/vi/p6lQowGQDFQ/0.jpg)](https://www.youtube.com///watch?v=p6lQowGQDFQ "Haiku.API")
