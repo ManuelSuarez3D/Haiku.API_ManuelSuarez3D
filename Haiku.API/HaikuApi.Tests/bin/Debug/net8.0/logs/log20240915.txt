@@ -1,0 +1,270 @@
+2024-09-15 21:28:02.342 -03:00 [INF] Generated Key: +wpYF6pSfxPQblRULP0aiI1OUhkNL9YIIhZDNyPbqSo=
+2024-09-15 21:28:02.603 -03:00 [INF] User profile is available. Using 'C:\Users\manuq\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-15 21:28:02.626 -03:00 [WRN] The WebRootPath was not found: F:\Portfolio\Projects\HaikuAPI_ManuelSuarez3D\Haiku.API\Haiku.API\wwwroot. Static files may be unavailable.
+2024-09-15 21:28:02.719 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost/api/creators - application/json; charset=utf-8 74
+2024-09-15 21:28:03.291 -03:00 [WRN] Failed to determine the https port for redirect.
+2024-09-15 21:28:03.293 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost/api/creators - 404 null null 575.0496ms
+2024-09-15 21:28:03.298 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: POST http://localhost/api/creators, Response status code: 404
+2024-09-15 21:28:03.543 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost/api/creators - null null
+2024-09-15 21:28:03.545 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost/api/creators - 404 null null 2.1845ms
+2024-09-15 21:28:03.545 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost/api/creators, Response status code: 404
+2024-09-15 21:28:03.547 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost/api/creators/1 - null null
+2024-09-15 21:28:03.549 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost/api/creators/1 - 404 null null 1.618ms
+2024-09-15 21:28:03.549 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost/api/creators/1, Response status code: 404
+2024-09-15 21:28:03.551 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost/api/creators/414214241 - null null
+2024-09-15 21:28:03.551 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost/api/creators/414214241 - 404 null null 0.3145ms
+2024-09-15 21:28:03.551 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost/api/creators/414214241, Response status code: 404
+2024-09-15 21:28:03.553 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost/api/creators - application/json; charset=utf-8 27
+2024-09-15 21:28:03.553 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost/api/creators - 404 null null 0.3873ms
+2024-09-15 21:28:03.553 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: POST http://localhost/api/creators, Response status code: 404
+2024-09-15 21:28:03.555 -03:00 [INF] Request starting HTTP/1.1 PUT http://localhost/api/creators/1 - application/json; charset=utf-8 75
+2024-09-15 21:28:03.555 -03:00 [INF] Request finished HTTP/1.1 PUT http://localhost/api/creators/1 - 404 null null 0.2564ms
+2024-09-15 21:28:03.556 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: PUT http://localhost/api/creators/1, Response status code: 404
+2024-09-15 21:28:03.557 -03:00 [INF] Request starting HTTP/1.1 PUT http://localhost/api/creators/1 - application/json; charset=utf-8 79
+2024-09-15 21:28:03.558 -03:00 [INF] Request finished HTTP/1.1 PUT http://localhost/api/creators/1 - 404 null null 0.2547ms
+2024-09-15 21:28:03.558 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: PUT http://localhost/api/creators/1, Response status code: 404
+2024-09-15 21:28:03.559 -03:00 [INF] Request starting HTTP/1.1 DELETE http://localhost/api/creators/42141241241 - null null
+2024-09-15 21:28:03.560 -03:00 [INF] Request finished HTTP/1.1 DELETE http://localhost/api/creators/42141241241 - 404 null null 0.2735ms
+2024-09-15 21:28:03.560 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: DELETE http://localhost/api/creators/42141241241, Response status code: 404
+2024-09-15 21:28:03.561 -03:00 [INF] Request starting HTTP/1.1 DELETE http://localhost/api/creators/1 - null null
+2024-09-15 21:28:03.562 -03:00 [INF] Request finished HTTP/1.1 DELETE http://localhost/api/creators/1 - 404 null null 0.2453ms
+2024-09-15 21:28:03.562 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: DELETE http://localhost/api/creators/1, Response status code: 404
+2024-09-15 21:28:10.501 -03:00 [INF] Generated Key: G2+GwVTYBHa3pdHFjfUwlX4l/+3o/i25/YIXqkDmE+o=
+2024-09-15 21:28:10.587 -03:00 [INF] User profile is available. Using 'C:\Users\manuq\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-15 21:28:10.610 -03:00 [WRN] The WebRootPath was not found: F:\Portfolio\Projects\HaikuAPI_ManuelSuarez3D\Haiku.API\Haiku.API\wwwroot. Static files may be unavailable.
+2024-09-15 21:28:10.630 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost/api/creators - application/json; charset=utf-8 74
+2024-09-15 21:28:10.658 -03:00 [WRN] Failed to determine the https port for redirect.
+2024-09-15 21:28:10.660 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost/api/creators - 404 null null 30.848ms
+2024-09-15 21:28:10.662 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: POST http://localhost/api/creators, Response status code: 404
+2024-09-15 21:30:28.784 -03:00 [INF] Generated Key: 5cLvK8KDperAqqgpLU4NYeHnxcdK482k7PsPNYurohk=
+2024-09-15 21:30:28.864 -03:00 [INF] User profile is available. Using 'C:\Users\manuq\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-15 21:30:28.885 -03:00 [WRN] The WebRootPath was not found: F:\Portfolio\Projects\HaikuAPI_ManuelSuarez3D\Haiku.API\Haiku.API\wwwroot. Static files may be unavailable.
+2024-09-15 21:30:28.905 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost/api/Creator - application/json; charset=utf-8 74
+2024-09-15 21:30:28.928 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 21:30:28.930 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 21:30:28.932 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost/api/Creator - 401 null null 27.8343ms
+2024-09-15 21:30:28.992 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost/api/Creator - null null
+2024-09-15 21:30:28.994 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 21:30:28.994 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 21:30:28.994 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost/api/Creator - 401 null null 2.6551ms
+2024-09-15 21:30:28.997 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost/api/Creator/1 - null null
+2024-09-15 21:30:28.998 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 21:30:28.998 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 21:30:28.998 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost/api/Creator/1 - 401 null null 1.2401ms
+2024-09-15 21:30:29.000 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost/api/Creator/414214241 - null null
+2024-09-15 21:30:29.000 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 21:30:29.000 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 21:30:29.000 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost/api/Creator/414214241 - 401 null null 0.3548ms
+2024-09-15 21:30:29.002 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost/api/Creator - application/json; charset=utf-8 27
+2024-09-15 21:30:29.002 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 21:30:29.002 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 21:30:29.002 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost/api/Creator - 401 null null 0.4173ms
+2024-09-15 21:30:29.004 -03:00 [INF] Request starting HTTP/1.1 PUT http://localhost/api/Creator/1 - application/json; charset=utf-8 75
+2024-09-15 21:30:29.004 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 21:30:29.004 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 21:30:29.004 -03:00 [INF] Request finished HTTP/1.1 PUT http://localhost/api/Creator/1 - 401 null null 0.3936ms
+2024-09-15 21:30:29.006 -03:00 [INF] Request starting HTTP/1.1 PUT http://localhost/api/Creator/1 - application/json; charset=utf-8 79
+2024-09-15 21:30:29.006 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 21:30:29.006 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 21:30:29.007 -03:00 [INF] Request finished HTTP/1.1 PUT http://localhost/api/Creator/1 - 401 null null 0.3763ms
+2024-09-15 21:30:29.008 -03:00 [INF] Request starting HTTP/1.1 DELETE http://localhost/api/Creator/42141241241 - null null
+2024-09-15 21:30:29.008 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 21:30:29.008 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 21:30:29.009 -03:00 [INF] Request finished HTTP/1.1 DELETE http://localhost/api/Creator/42141241241 - 401 null null 0.3604ms
+2024-09-15 21:30:29.010 -03:00 [INF] Request starting HTTP/1.1 DELETE http://localhost/api/Creator/1 - null null
+2024-09-15 21:30:29.010 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 21:30:29.010 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 21:30:29.010 -03:00 [INF] Request finished HTTP/1.1 DELETE http://localhost/api/Creator/1 - 401 null null 0.3557ms
+2024-09-15 21:30:51.239 -03:00 [INF] Generated Key: BuLkNaHDl0tzZbKWXQsi4ZsbtgfV8sk/Hf9sE6kJzSA=
+2024-09-15 21:30:51.507 -03:00 [INF] User profile is available. Using 'C:\Users\manuq\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-15 21:30:51.528 -03:00 [WRN] The WebRootPath was not found: F:\Portfolio\Projects\HaikuAPI_ManuelSuarez3D\Haiku.API\Haiku.API\wwwroot. Static files may be unavailable.
+2024-09-15 21:30:51.620 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost/api/Creator - application/json; charset=utf-8 74
+2024-09-15 21:30:52.170 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 21:30:52.172 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 21:30:52.174 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost/api/Creator - 401 null null 554.9308ms
+2024-09-15 21:37:06.106 -03:00 [INF] Generated Key: f9jeIP02DrVr1yTQkHP0QRiJDbPIra50bK+85ANTWZc=
+2024-09-15 21:37:06.192 -03:00 [INF] User profile is available. Using 'C:\Users\manuq\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-15 21:37:06.213 -03:00 [WRN] The WebRootPath was not found: F:\Portfolio\Projects\HaikuAPI_ManuelSuarez3D\Haiku.API\Haiku.API\wwwroot. Static files may be unavailable.
+2024-09-15 21:37:06.232 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost/api/Creator - application/json; charset=utf-8 74
+2024-09-15 21:37:06.255 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 21:37:06.256 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 21:37:06.259 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost/api/Creator - 401 null null 27.029ms
+2024-09-15 21:49:18.993 -03:00 [INF] Generated Key: GCRYMzxawyeXd/q/OonGIsTFqYkqdtHBX+POARwcpLU=
+2024-09-15 21:49:19.256 -03:00 [INF] User profile is available. Using 'C:\Users\manuq\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-15 21:49:19.277 -03:00 [WRN] The WebRootPath was not found: F:\Portfolio\Projects\HaikuAPI_ManuelSuarez3D\Haiku.API\Haiku.API\wwwroot. Static files may be unavailable.
+2024-09-15 21:49:19.370 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost/api/Creator - application/json; charset=utf-8 74
+2024-09-15 21:49:19.902 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 21:49:19.903 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 21:49:19.906 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost/api/Creator - 401 null null 536.8924ms
+2024-09-15 21:49:20.109 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost/api/Creator - null null
+2024-09-15 21:49:20.111 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 21:49:20.111 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 21:49:20.111 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost/api/Creator - 401 null null 2.7779ms
+2024-09-15 21:49:20.114 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost/api/Creator/1 - null null
+2024-09-15 21:49:20.114 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 21:49:20.115 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 21:49:20.115 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost/api/Creator/1 - 401 null null 1.1498ms
+2024-09-15 21:49:20.116 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost/api/Creator/414214241 - null null
+2024-09-15 21:49:20.117 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 21:49:20.117 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 21:49:20.117 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost/api/Creator/414214241 - 401 null null 0.407ms
+2024-09-15 21:49:20.119 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost/api/Creator - application/json; charset=utf-8 27
+2024-09-15 21:49:20.119 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 21:49:20.119 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 21:49:20.119 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost/api/Creator - 401 null null 0.4193ms
+2024-09-15 21:49:20.121 -03:00 [INF] Request starting HTTP/1.1 PUT http://localhost/api/Creator/1 - application/json; charset=utf-8 75
+2024-09-15 21:49:20.121 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 21:49:20.121 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 21:49:20.121 -03:00 [INF] Request finished HTTP/1.1 PUT http://localhost/api/Creator/1 - 401 null null 0.3754ms
+2024-09-15 21:49:20.123 -03:00 [INF] Request starting HTTP/1.1 PUT http://localhost/api/Creator/1 - application/json; charset=utf-8 79
+2024-09-15 21:49:20.123 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 21:49:20.123 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 21:49:20.123 -03:00 [INF] Request finished HTTP/1.1 PUT http://localhost/api/Creator/1 - 401 null null 0.386ms
+2024-09-15 21:49:20.125 -03:00 [INF] Request starting HTTP/1.1 DELETE http://localhost/api/Creator/42141241241 - null null
+2024-09-15 21:49:20.125 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 21:49:20.125 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 21:49:20.125 -03:00 [INF] Request finished HTTP/1.1 DELETE http://localhost/api/Creator/42141241241 - 401 null null 0.377ms
+2024-09-15 21:49:20.127 -03:00 [INF] Request starting HTTP/1.1 DELETE http://localhost/api/Creator/1 - null null
+2024-09-15 21:49:20.127 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 21:49:20.127 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 21:49:20.127 -03:00 [INF] Request finished HTTP/1.1 DELETE http://localhost/api/Creator/1 - 401 null null 0.3798ms
+2024-09-15 22:06:55.862 -03:00 [INF] Generated Key: RwSBYM8w3ATyG5qZOeIb5lkRDbooG1jzMKY8/hGQ210=
+2024-09-15 22:06:55.944 -03:00 [INF] User profile is available. Using 'C:\Users\manuq\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-15 22:06:55.967 -03:00 [WRN] The WebRootPath was not found: F:\Portfolio\Projects\HaikuAPI_ManuelSuarez3D\Haiku.API\Haiku.API\wwwroot. Static files may be unavailable.
+2024-09-15 22:06:55.987 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost/api/Creator - application/json; charset=utf-8 74
+2024-09-15 22:06:56.009 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 22:06:56.011 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 22:06:56.013 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost/api/Creator - 401 null null 26.5587ms
+2024-09-15 22:07:38.070 -03:00 [INF] Generated Key: fd2qJ+uWoQwM/d4DHgMJ5dKi1z4SOHAyiHwOL/Ar9MM=
+2024-09-15 22:07:38.151 -03:00 [INF] User profile is available. Using 'C:\Users\manuq\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-15 22:07:38.171 -03:00 [WRN] The WebRootPath was not found: F:\Portfolio\Projects\HaikuAPI_ManuelSuarez3D\Haiku.API\Haiku.API\wwwroot. Static files may be unavailable.
+2024-09-15 22:07:38.191 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost/api/Creator - application/json; charset=utf-8 74
+2024-09-15 22:07:38.214 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 22:07:38.215 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 22:07:38.218 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost/api/Creator - 401 null null 27.3862ms
+2024-09-15 22:07:54.920 -03:00 [INF] Generated Key: zSAhtHqWieOWUZvOucgrf86XmKF1c1UM0hVPWgjZ0ko=
+2024-09-15 22:07:55.200 -03:00 [INF] User profile is available. Using 'C:\Users\manuq\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-15 22:07:55.222 -03:00 [WRN] The WebRootPath was not found: F:\Portfolio\Projects\HaikuAPI_ManuelSuarez3D\Haiku.API\Haiku.API\wwwroot. Static files may be unavailable.
+2024-09-15 22:07:55.316 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost/api/Creator - application/json; charset=utf-8 74
+2024-09-15 22:07:55.890 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 22:07:55.892 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 22:07:55.894 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost/api/Creator - 401 null null 578.5568ms
+2024-09-15 22:09:19.557 -03:00 [INF] Generated Key: i9DnTvN7tgcLIS+XTOzxuM3iEM/UQnMeZBEXz267fY8=
+2024-09-15 22:09:19.639 -03:00 [INF] User profile is available. Using 'C:\Users\manuq\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-15 22:09:19.660 -03:00 [WRN] The WebRootPath was not found: F:\Portfolio\Projects\HaikuAPI_ManuelSuarez3D\Haiku.API\Haiku.API\wwwroot. Static files may be unavailable.
+2024-09-15 22:09:19.679 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost/api/Creator - application/json; charset=utf-8 74
+2024-09-15 22:09:19.702 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 22:09:19.703 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 22:09:19.705 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost/api/Creator - 401 null null 26.6872ms
+2024-09-15 22:09:33.267 -03:00 [INF] Generated Key: 1w67ZnjB/iox46VouULrysWWMI4FHd0XY17CPBDN1eQ=
+2024-09-15 22:09:33.524 -03:00 [INF] User profile is available. Using 'C:\Users\manuq\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-15 22:09:33.546 -03:00 [WRN] The WebRootPath was not found: F:\Portfolio\Projects\HaikuAPI_ManuelSuarez3D\Haiku.API\Haiku.API\wwwroot. Static files may be unavailable.
+2024-09-15 22:09:33.637 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost/api/Creator - application/json; charset=utf-8 74
+2024-09-15 22:09:34.178 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 22:09:34.180 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 22:09:34.183 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost/api/Creator - 401 null null 546.6103ms
+2024-09-15 22:10:08.118 -03:00 [INF] Generated Key: WNer7otrGbLDvFhPK1nGcS/fT1hYkwe7u1FL/O+fKJQ=
+2024-09-15 22:10:08.385 -03:00 [INF] User profile is available. Using 'C:\Users\manuq\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-15 22:10:08.406 -03:00 [WRN] The WebRootPath was not found: F:\Portfolio\Projects\HaikuAPI_ManuelSuarez3D\Haiku.API\Haiku.API\wwwroot. Static files may be unavailable.
+2024-09-15 22:10:08.498 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost/api/Creator - application/json; charset=utf-8 74
+2024-09-15 22:10:09.055 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 22:10:09.056 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 22:10:09.059 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost/api/Creator - 401 null null 562.4351ms
+2024-09-15 22:12:10.080 -03:00 [INF] Generated Key: iGULF1/ooYjj3tsXjovn2SdGNanUdJKwV9S0j4pVw7Y=
+2024-09-15 22:12:10.348 -03:00 [INF] User profile is available. Using 'C:\Users\manuq\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-15 22:12:10.369 -03:00 [WRN] The WebRootPath was not found: F:\Portfolio\Projects\HaikuAPI_ManuelSuarez3D\Haiku.API\Haiku.API\wwwroot. Static files may be unavailable.
+2024-09-15 22:12:10.462 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost/api/Creator - application/json; charset=utf-8 74
+2024-09-15 22:12:11.001 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 22:12:11.002 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 22:12:11.005 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost/api/Creator - 401 null null 543.0043ms
+2024-09-15 22:13:51.906 -03:00 [INF] Generated Key: RbiF2GiQQsXsHICyoO4cO7/FGYX94Pq84Kq1dEFyBNE=
+2024-09-15 22:13:51.987 -03:00 [INF] User profile is available. Using 'C:\Users\manuq\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-15 22:13:52.006 -03:00 [WRN] The WebRootPath was not found: F:\Portfolio\Projects\HaikuAPI_ManuelSuarez3D\Haiku.API\Haiku.API\wwwroot. Static files may be unavailable.
+2024-09-15 22:13:52.025 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost/api/Creator - application/json; charset=utf-8 74
+2024-09-15 22:13:52.048 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 22:13:52.049 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 22:13:52.052 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost/api/Creator - 401 null null 27.0747ms
+2024-09-15 22:13:52.096 -03:00 [INF] Request starting HTTP/1.1 GET https://localhost/api/Creator - null null
+2024-09-15 22:13:52.098 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 22:13:52.098 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 22:13:52.098 -03:00 [INF] Request finished HTTP/1.1 GET https://localhost/api/Creator - 401 null null 2.5843ms
+2024-09-15 22:13:52.101 -03:00 [INF] Request starting HTTP/1.1 GET https://localhost/api/Creator/1 - null null
+2024-09-15 22:13:52.102 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 22:13:52.102 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 22:13:52.102 -03:00 [INF] Request finished HTTP/1.1 GET https://localhost/api/Creator/1 - 401 null null 1.1431ms
+2024-09-15 22:13:52.103 -03:00 [INF] Request starting HTTP/1.1 GET https://localhost/api/Creator/414214241 - null null
+2024-09-15 22:13:52.104 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 22:13:52.104 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 22:13:52.104 -03:00 [INF] Request finished HTTP/1.1 GET https://localhost/api/Creator/414214241 - 401 null null 0.3587ms
+2024-09-15 22:13:52.106 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost/api/Creator - application/json; charset=utf-8 27
+2024-09-15 22:13:52.106 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 22:13:52.106 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 22:13:52.106 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost/api/Creator - 401 null null 0.4407ms
+2024-09-15 22:13:52.108 -03:00 [INF] Request starting HTTP/1.1 PUT https://localhost/api/Creator/1 - application/json; charset=utf-8 75
+2024-09-15 22:13:52.108 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 22:13:52.108 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 22:13:52.108 -03:00 [INF] Request finished HTTP/1.1 PUT https://localhost/api/Creator/1 - 401 null null 0.3565ms
+2024-09-15 22:13:52.110 -03:00 [INF] Request starting HTTP/1.1 PUT https://localhost/api/Creator/1 - application/json; charset=utf-8 79
+2024-09-15 22:13:52.110 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 22:13:52.110 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 22:13:52.110 -03:00 [INF] Request finished HTTP/1.1 PUT https://localhost/api/Creator/1 - 401 null null 0.3137ms
+2024-09-15 22:13:52.112 -03:00 [INF] Request starting HTTP/1.1 DELETE https://localhost/api/Creator/42141241241 - null null
+2024-09-15 22:13:52.112 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 22:13:52.113 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 22:13:52.113 -03:00 [INF] Request finished HTTP/1.1 DELETE https://localhost/api/Creator/42141241241 - 401 null null 0.4514ms
+2024-09-15 22:13:52.114 -03:00 [INF] Request starting HTTP/1.1 DELETE https://localhost/api/Creator/1 - null null
+2024-09-15 22:13:52.114 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 22:13:52.114 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 22:13:52.115 -03:00 [INF] Request finished HTTP/1.1 DELETE https://localhost/api/Creator/1 - 401 null null 0.3021ms
+2024-09-15 22:16:28.201 -03:00 [INF] Generated Key: Mc/nKr+RgxWpmxYhESC38tfmzw7prLgTIcGHSOhICZE=
+2024-09-15 22:16:28.280 -03:00 [INF] User profile is available. Using 'C:\Users\manuq\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-15 22:16:28.301 -03:00 [WRN] The WebRootPath was not found: F:\Portfolio\Projects\HaikuAPI_ManuelSuarez3D\Haiku.API\Haiku.API\wwwroot. Static files may be unavailable.
+2024-09-15 22:16:28.320 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost/api/Creator - application/json; charset=utf-8 74
+2024-09-15 22:16:28.343 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 22:16:28.345 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 22:16:28.347 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost/api/Creator - 401 null null 27.5047ms
+2024-09-15 22:16:51.761 -03:00 [INF] Generated Key: d0aw0BpRbpgNaftiS8ixa4kax4M0SFPAdwvZ/Ynqypo=
+2024-09-15 22:16:52.023 -03:00 [INF] User profile is available. Using 'C:\Users\manuq\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-15 22:16:52.045 -03:00 [WRN] The WebRootPath was not found: F:\Portfolio\Projects\HaikuAPI_ManuelSuarez3D\Haiku.API\Haiku.API\wwwroot. Static files may be unavailable.
+2024-09-15 22:16:52.141 -03:00 [INF] Request starting HTTP/1.1 POST https://localhost/api/Creator - application/json; charset=utf-8 74
+2024-09-15 22:16:52.701 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-15 22:16:52.703 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-15 22:16:52.705 -03:00 [INF] Request finished HTTP/1.1 POST https://localhost/api/Creator - 401 null null 564.6464ms

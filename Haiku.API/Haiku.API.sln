@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haiku.API", "Haiku.API\Haiku.API.csproj", "{B40579B7-ED15-4DA6-BDD2-2AF64E004C89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaikuApi.Tests", "HaikuApi.Tests\HaikuApi.Tests.csproj", "{C5170BB2-32C1-43E6-9050-3AEC3915AE1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B40579B7-ED15-4DA6-BDD2-2AF64E004C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40579B7-ED15-4DA6-BDD2-2AF64E004C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40579B7-ED15-4DA6-BDD2-2AF64E004C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40579B7-ED15-4DA6-BDD2-2AF64E004C89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5170BB2-32C1-43E6-9050-3AEC3915AE1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5170BB2-32C1-43E6-9050-3AEC3915AE1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5170BB2-32C1-43E6-9050-3AEC3915AE1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5170BB2-32C1-43E6-9050-3AEC3915AE1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D020BB7-4E9C-4F84-A109-26BE77B83904}
+	EndGlobalSection
+EndGlobal

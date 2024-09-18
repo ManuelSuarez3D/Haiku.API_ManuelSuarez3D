@@ -1,0 +1,6 @@
+@Haiku.API_HostAddress = http://localhost:5104
+
+GET {{Haiku.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

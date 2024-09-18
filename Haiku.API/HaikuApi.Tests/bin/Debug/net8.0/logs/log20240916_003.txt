@@ -1,0 +1,8 @@
+2024-09-16 02:33:55.335 -03:00 [INF] Generated Key: WdHcJJUkHjWyUn/qXhS8NjTHmsnDIXtpK4fu98RaqeQ=
+2024-09-16 02:33:55.346 -03:00 [INF] User profile is available. Using 'C:\Users\manuq\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-16 02:33:55.348 -03:00 [WRN] The WebRootPath was not found: F:\Portfolio\Projects\HaikuAPI_ManuelSuarez3D\Haiku.API\Haiku.API\wwwroot. Static files may be unavailable.
+2024-09-16 02:33:55.349 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost/api/Creator/414214241 - null null
+2024-09-16 02:33:55.350 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-09-16 02:33:55.350 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-09-16 02:33:55.350 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost/api/Creator/414214241 - 401 null null 1.1826ms

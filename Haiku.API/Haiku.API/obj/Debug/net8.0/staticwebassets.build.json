@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GTPg0XAtFeNOu7g033A/ziK7KpjsHqiWgy69MZy09SY=",
+  "Source": "Haiku.API",
+  "BasePath": "_content/Haiku.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
