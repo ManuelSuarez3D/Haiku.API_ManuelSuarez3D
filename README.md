@@ -7,31 +7,20 @@ Haiku.API is a robust RESTful API that allows you to create and manage haikus an
 The project includes thorough integration tests for controllers and unit tests for services, with over 20+ tests in total to ensure both reliability and performance.
 
 # Dependencies
-- AutoMapper: A library for object-to-object mapping, commonly used for mapping DTOs to domain models and vice versa.
-- BCrypt.Net-Next: A library for hashing passwords using the BCrypt algorithm, providing secure password storage.
-- coverlet.collector: A code coverage tool for .NET applications, used to collect coverage data during tests.
-- FluentAssertions: A library that provides fluent assertion methods for unit tests, making tests more readable and expressive.
-- FluentAssertions.Json: Extends FluentAssertions to include JSON-specific assertions, useful for verifying JSON responses in tests.
-- Microsoft.AspNetCore.Authentication.Abstractions: Provides abstractions for authentication in ASP.NET Core applications.
-- Microsoft.AspNetCore.Authentication.JwtBearer: Provides JWT Bearer token authentication for securing APIs in ASP.NET Core.
-- Microsoft.AspNetCore.Authorization: Provides authorization functionality for ASP.NET Core applications.
-- Microsoft.AspNetCore.Mvc.Testing: Simplifies integration testing of ASP.NET Core MVC applications by providing a testable TestServer and WebApplicationFactory.
-- Microsoft.Data.Sqlite: A lightweight, in-memory SQLite database provider for .NET applications, useful for testing and development.
-- Microsoft.EntityFrameworkCore: A robust Object-Relational Mapper (ORM) for .NET, enabling database access using LINQ queries.
-- Microsoft.EntityFrameworkCore.Design: Provides design-time tools for Entity Framework Core, such as migrations and model generation.
-- Microsoft.EntityFrameworkCore.Sqlite: The SQLite provider for Entity Framework Core, allowing the use of SQLite as a database.
-- Microsoft.EntityFrameworkCore.Tools: Provides command-line tools for Entity Framework Core, including commands for migrations and database updates.
-- Microsoft.IdentityModel.JsonWebTokens: Provides support for handling JSON Web Tokens (JWTs) for authentication and authorization.
-- Moq: A mocking library for .NET, used for creating mock objects in unit tests.
-- Npgsql.EntityFrameworkCore.PostgreSQL: The PostgreSQL provider for Entity Framework Core, allowing the use of PostgreSQL as a database.
-- Serilog: A structured logging library for .NET, providing flexible logging to various sinks (e.g., console, files).
-- Serilog.Extensions.Logging: Integrates Serilog with ASP.NET Core's logging framework, allowing Serilog to be used as the logging provider.
-- Serilog.Sinks.Console: A Serilog sink for logging to the console, useful for debugging and development.
-- Serilog.Sinks.Debug: A Serilog sink for logging to the debug output window, useful for development and debugging.
-- Serilog.Sinks.File: A Serilog sink for logging to files, allowing for persistent log storage.
-- Swashbuckle.AspNetCore: A library for generating Swagger documentation for ASP.NET Core APIs, providing interactive API documentation and testing.
-- xunit: A popular testing framework for .NET, used for writing and running unit tests.
-- xunit.runner.visualstudio: An xUnit test runner for Visual Studio, enabling test discovery and execution within the IDE.
+- Microsoft.EntityFrameworkCore: ORM for .NET with support for SQLite (Microsoft.EntityFrameworkCore.Sqlite), PostgreSQL (Npgsql.EntityFrameworkCore.PostgreSQL), and design-time tools (Microsoft.EntityFrameworkCore.Design & Microsoft.EntityFrameworkCore.Tools).
+- Microsoft.AspNetCore.Authentication: JWT Bearer token authentication (Microsoft.AspNetCore.Authentication.JwtBearer) and abstractions (Microsoft.AspNetCore.Authentication.Abstractions).
+- Microsoft.IdentityModel.JsonWebTokens: JSON Web Token handling for authentication.
+- Microsoft.AspNetCore.Authorization: Authorization functionality for ASP.NET Core.
+- Microsoft.AspNetCore.Mvc.Testing: Simplifies ASP.NET Core MVC integration testing.
+- xunit: Unit testing framework with Visual Studio runner (xunit.runner.visualstudio).
+- Moq: Mocking library for unit tests.
+- FluentAssertions: Fluent assertions for tests, including JSON-specific extensions (FluentAssertions.Json).
+- coverlet.collector: Code coverage collector.
+- BCrypt.Net-Next: BCrypt algorithm for password hashing.
+- AutoMapper: Object-to-object mapping for DTOs and domain models.
+- Serilog: Structured logging with various sinks (Console, Debug, File) and ASP.NET Core integration (Serilog.Extensions.Logging).
+- Swashbuckle.AspNetCore: Swagger documentation for ASP.NET Core APIs.
+- Microsoft.Data.Sqlite: In-memory SQLite provider for development and testing.
   
 # Instructions
 - Create the "myhaikus" database in PostgreSQL (pgAdmin4).
