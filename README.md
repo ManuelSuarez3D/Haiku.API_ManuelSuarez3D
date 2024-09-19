@@ -38,7 +38,7 @@ The project includes thorough integration tests for controllers and unit tests f
 - Comprehensive Logging with Serilog
 
 # Business Rules
-- Only development users can access API endpoints (i.e., requiring login or special access roles).
+- Only development users can access API endpoints (i.e., requiring login).
 
 # Demo
 [![Haiku.API](https://img.youtube.com/vi/p6lQowGQDFQ/0.jpg)](https://www.youtube.com///watch?v=p6lQowGQDFQ "Haiku.API")
