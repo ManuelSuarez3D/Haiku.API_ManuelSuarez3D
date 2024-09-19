@@ -38,12 +38,7 @@ The project includes thorough integration tests for controllers and unit tests f
 - Comprehensive Logging with Serilog
 
 # Business Rules
-- Only development users can access API endpoints.
-- Creator Name is required.
-- Haiku Title is required.
-- All lines of the Haiku are required.
-- Haiku must adhere to the correct syllable count (5-7-5).
-- CreatorId is required for each Haiku.
-  
+- Only development users can access API endpoints (i.e., requiring login or special access roles).
+
 # Demo
 [![Haiku.API](https://img.youtube.com/vi/p6lQowGQDFQ/0.jpg)](https://www.youtube.com///watch?v=p6lQowGQDFQ "Haiku.API")
