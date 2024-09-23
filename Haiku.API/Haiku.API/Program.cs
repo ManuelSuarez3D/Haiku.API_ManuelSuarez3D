@@ -95,20 +95,8 @@ builder.Services.AddSwaggerGen(c =>
 });
 
 var app = builder.Build();
-app.UseStaticFiles();
 app.UseAuthentication();
 app.UseAuthorization();
-
-app.Use(async (context, next) =>
-{
-    if (context.Request.Path.StartsWithSegments("/swagger"))
-    {
-        await next();
-        return;
-    }
-
-    await next();
-});
 
 app.UseSwagger();
 app.UseSwaggerUI(c =>
