@@ -99,10 +99,7 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.UseSwagger();
-app.UseSwaggerUI(c =>
-{
-    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Haiku API V1");
-});
+app.UseSwaggerUI();
 
 if (app.Environment.IsEnvironment("Development"))
 {
